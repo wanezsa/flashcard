@@ -1,7 +1,7 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'Futebol',
+    'Maior time Paulista?',
+    'o maior time paulista é o Palmeiras'
 )
 
 criaCartao(
