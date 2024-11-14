@@ -2,7 +2,7 @@ criaCartao(
     'Futebol',
     'Maior time Paulista?',
     'o maior time paulista é o  grandioso Palmeiras',
-    'mona.jpeg'
+    'palmeirass.jfif'
 )
 
 criaCartao(
