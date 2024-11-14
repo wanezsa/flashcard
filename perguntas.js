@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Curiosidade',
     'País mais bonito, em questões artisticas?',
-    'A Itália é o país com maior riqueza histoeica e arquitetonica'
+    'A Itália é o país mais bonito, com maior riqueza histoeica e arquitetonica'
 )
 
 criaCartao(
