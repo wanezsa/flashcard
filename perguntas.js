@@ -1,13 +1,15 @@
 criaCartao(
     'Futebol',
     'Maior time Paulista?',
-    'o maior time paulista é o  grandioso Palmeiras'
+    'o maior time paulista é o  grandioso Palmeiras',
+    'mona.jpeg'
 )
 
 criaCartao(
     'Arte',
     'Obra de arte mais famosa do mundo?',
-    'A obra de arte mais famosa do mundo é a, Monalisa'
+    'A obra de arte mais famosa do mundo é a, Monalisa',
+    'mona1.jpeg'
 )
 
 criaCartao(
